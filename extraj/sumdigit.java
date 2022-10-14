@@ -10,6 +10,6 @@ public class sumdigit {
         {
             return 0;
         }
-        return n + sdigit((n-1)/10);
+        return n%10 + sdigit(n/10);
     }
 }

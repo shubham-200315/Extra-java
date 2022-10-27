@@ -8,7 +8,7 @@ public class n1to1 {
     }
     static void fun(int n)
     {
-        if(n==00)
+        if(n==1)
         {
             return;
         }

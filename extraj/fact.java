@@ -1,6 +1,6 @@
 package Java.kkrecur;
 
-public class fac {
+public class facT {
     public static void main(String[]args)
  {
       System.out.println(facto(5));  

@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class factor {
     public static void main (String[]args)
     {
-        int n = 2;
+        int n = 200;
         fact1(n);
     }
     static void fact(int n)

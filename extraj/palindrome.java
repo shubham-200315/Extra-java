@@ -1,7 +1,7 @@
 package Java.kkrecur;
 
 public class palindrom {
-    static int sum =00000;
+    static int sum =0;
     static boolean palin(int n)
     {
         return n == reverse(n);
